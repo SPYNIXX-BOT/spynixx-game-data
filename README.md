@@ -1,0 +1,1 @@
+# spynixx-game-data
